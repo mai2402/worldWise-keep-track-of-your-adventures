@@ -1,0 +1,53 @@
+{
+  "hash": "30525b4d",
+  "browserHash": "890052e1",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "7834a69e",
+      "needsInterop": true
+    },
+    "react-datepicker": {
+      "src": "../../node_modules/react-datepicker/dist/es/index.js",
+      "file": "react-datepicker.js",
+      "fileHash": "2a15a824",
+      "needsInterop": false
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "66c4268b",
+      "needsInterop": true
+    },
+    "react-leaflet": {
+      "src": "../../node_modules/react-leaflet/lib/index.js",
+      "file": "react-leaflet.js",
+      "fileHash": "b2794cb2",
+      "needsInterop": false
+    },
+    "react-router": {
+      "src": "../../node_modules/react-router/dist/index.js",
+      "file": "react-router.js",
+      "fileHash": "da8832ee",
+      "needsInterop": false
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "1f785ba8",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-A63WGWOY": {
+      "file": "chunk-A63WGWOY.js"
+    },
+    "chunk-OWQ2P627": {
+      "file": "chunk-OWQ2P627.js"
+    },
+    "chunk-I2YVUVOB": {
+      "file": "chunk-I2YVUVOB.js"
+    }
+  }
+}

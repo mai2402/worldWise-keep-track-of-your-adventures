@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "id": "f35b",
+      "cityName": "Bellver de Cerdanya",
+      "emoji": "🇪🇸",
+      "country": "Spain",
+      "date": "2024-07-05T07:07:43.150Z",
+      "notes": "",
+      "position": {
+        "lat": "42.423354381831224",
+        "lng": "1.7311300346129468"
+      }
+    },
+    {
+      "id": "8217",
+      "cityName": "Fundao",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-07-06T08:08:26.485Z",
+      "notes": "",
+      "position": {
+        "lat": "40.09487814865223",
+        "lng": "-7.3350129315383334"
+      }
+    },
+    {
+      "id": "4a09",
+      "cityName": "Aritzo",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2024-07-07T10:14:36.389Z",
+      "notes": "",
+      "position": {
+        "lat": "39.92659168111901",
+        "lng": "9.260155193145968"
+      }
+    },
+    {
+      "id": "a22f",
+      "cityName": "Iskushuban",
+      "country": "Somalia",
+      "emoji": "🇸🇴",
+      "date": "2024-07-07T10:14:52.977Z",
+      "notes": "",
+      "position": {
+        "lat": "9.970429140291909",
+        "lng": "50.47651861119982"
+      }
+    },
+    {
+      "id": "1d1c",
+      "cityName": "Nuwaybi‘a",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2024-07-07T10:15:15.356Z",
+      "notes": "",
+      "position": {
+        "lat": "29.267300836188255",
+        "lng": "34.478770224076534"
+      }
+    },
+    {
+      "id": "e1f7",
+      "cityName": "Labouirat",
+      "country": "Morocco",
+      "emoji": "🇲🇦",
+      "date": "2024-07-07T11:51:46.273Z",
+      "notes": "",
+      "position": {
+        "lat": "28.07222072102094",
+        "lng": "-9.883725504471657"
+      }
+    }
+  ]
+}
